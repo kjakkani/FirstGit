@@ -1,0 +1,15 @@
+2021-01-17 17:23:31,770 : WARNING : pytestframe.test_logger : This is only warning message
+2021-01-17 17:23:31,770 : ERROR : pytestframe.test_logger : There is an error occurs
+2021-01-17 17:23:31,770 : CRITICAL : pytestframe.test_logger : There is some Critical error in the system
+2021-01-17 17:25:59,666 : INFO : pytestframe.test_logger : This log for information only
+2021-01-17 17:25:59,666 : WARNING : pytestframe.test_logger : This is only warning message
+2021-01-17 17:25:59,666 : ERROR : pytestframe.test_logger : There is an error occurs
+2021-01-17 17:25:59,666 : CRITICAL : pytestframe.test_logger : There is some Critical error in the system
+2021-01-17 17:28:10,618 : INFO : pytestframe.test_logger : This log for information only
+2021-01-17 17:28:10,618 : WARNING : pytestframe.test_logger : This is only warning message
+2021-01-17 17:28:10,619 : ERROR : pytestframe.test_logger : There is an error occurs
+2021-01-17 17:28:10,619 : CRITICAL : pytestframe.test_logger : There is some Critical error in the system
+2021-01-18 14:41:45,736 : INFO : pytestframe.test_logger : This log for information only
+2021-01-18 14:41:45,736 : WARNING : pytestframe.test_logger : This is only warning message
+2021-01-18 14:41:45,736 : ERROR : pytestframe.test_logger : There is an error occurs
+2021-01-18 14:41:45,737 : CRITICAL : pytestframe.test_logger : There is some Critical error in the system
